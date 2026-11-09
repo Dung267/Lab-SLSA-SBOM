@@ -1,0 +1,35 @@
+{
+  "name": "pbl6-sandbox-testing",
+  "version": "1.0.0",
+  "description": "> Hệ thống học ngoại ngữ thông minh ứng dụng công nghệ AI",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhanThiNhanVy/PBL6-Sandbox-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PhanThiNhanVy/PBL6-Sandbox-Testing/issues"
+  },
+  "homepage": "https://github.com/PhanThiNhanVy/PBL6-Sandbox-Testing#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.39.5",
+    "eslint": "^9.39.5",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.7",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^17.14.0",
+    "prettier": "^3.9.10",
+    "typescript-eslint": "^8.72.1"
+  }
+}
